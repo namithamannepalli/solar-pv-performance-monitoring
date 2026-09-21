@@ -8,4 +8,6 @@ __pycache__/
 data/raw/*
 data/processed/*
 
+logs/
+
 .DS_Store
